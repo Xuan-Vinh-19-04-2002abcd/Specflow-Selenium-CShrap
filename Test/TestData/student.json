@@ -1,0 +1,36 @@
+{
+  "StudentWithAllFields":{
+    "FirstName": "Nam",
+    "LastName": "Nguyễn",
+    "Email": "Vinh.doe@example.com",
+    "Gender": "Male",
+    "PhoneNumber": "0879364321",
+    "DateOfBirth": "09 June 2024",
+    "Subject": [
+      "English",
+      "Hindi"
+    ],
+    "Picture": "TestIMG.jpg",
+    "Hobbies": [
+      "Sports",
+      "Reading"
+    ],
+    "CurrentAddress": "676 Cong Hoa",
+    "State": "NCR",
+    "City": "Delhi"
+  },
+  "StudentWithRequiredFields":{
+    "FirstName": "Nam",
+    "LastName": "Nguyễn",
+    "Email": "",
+    "Gender": "Female",
+    "PhoneNumber": "0879364321",
+    "DateOfBirth": "",
+    "Subject": [],
+    "Picture": "",
+    "Hobbies": [],
+    "CurrentAddress": "",
+    "State": "",
+    "City": ""
+  }
+}
